@@ -88,11 +88,11 @@ Interpretations should avoid assuming missing/low counts mean “safer” areas.
 ## Acknowledgements
 
 ### Hosted by: 
-Northeast Big Data Innovation Hub
-National Student Data Corps
+- Northeast Big Data Innovation Hub
+- National Student Data Corps
 
 ### In collaboration with:
-U.S. Department of Transportation (Federal Highway Administration)
+- U.S. Department of Transportation (Federal Highway Administration)
 
 ### Dataset provided by:
-NYC OpenData
+- NYC OpenData
