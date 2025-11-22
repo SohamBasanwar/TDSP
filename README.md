@@ -69,3 +69,30 @@ git clone <your-repo-url>
 cd TDSP
 pip install -r requirements.txt
 jupyter notebook
+```
+
+Notebook Structure
+```bash
+TDSP/
+├─ notebook.ipynb
+├─ data/                     # dataset CSV (not pushed if large)
+├─ figures/                  # exported plots
+├─ requirements.txt
+└─ README.md
+```
+## Ethics Note
+
+Crash datasets are influenced by uneven reporting, especially across under-resourced vs well-resourced neighborhoods.
+Interpretations should avoid assuming missing/low counts mean “safer” areas. Better reporting systems and standardized input would reduce bias.
+
+## Acknowledgements
+
+### Hosted by: 
+Northeast Big Data Innovation Hub
+National Student Data Corps
+
+### In collaboration with:
+U.S. Department of Transportation (Federal Highway Administration)
+
+### Dataset provided by:
+NYC OpenData
